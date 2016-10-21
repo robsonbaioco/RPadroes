@@ -1,2 +1,2 @@
 # RPadroes
-Reconhecimento de Padrões
+Reconhecimento de Padrões.
